@@ -58,26 +58,11 @@ Um projeto simples e interativo para sortear amigos secretos. Adicione os nomes 
 
 2. **Acesse a pasta do projeto**:
    ```bash
-   cd amigo-secreto
+   cd Challenge-Amigo-Secreto
    ```
 
 3. **Abra o arquivo `index.html`**:
    - Basta abrir o arquivo `index.html` no seu navegador.
-
----
-
-### Estrutura do Projeto:
-
-amigo-secreto/
-│
-├── assets/
-│   ├── amigo-secreto.png
-│   ├── play_circle_outline.png
-├── app.js
-├── index.html
-├── style.css
-├── LICENSE
-├── README.md
 
 ---
 
