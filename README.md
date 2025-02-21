@@ -53,7 +53,7 @@ Um projeto simples e interativo para sortear amigos secretos. Adicione os nomes 
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/hebson-sousa/Draw-Secret-Friend.git
+   git clone https://github.com/hebson-sousa/Challenge-Amigo-Secreto.git
    ```
 
 2. **Acesse a pasta do projeto**:
